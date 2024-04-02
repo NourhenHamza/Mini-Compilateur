@@ -7,7 +7,7 @@ Ce mini compilateur est conçu pour illustrer et mettre en œuvre les principale
 
 1. **Analyse lexicale :**  
 
-2. **Analyse syntaxique :** A 
+2. **Analyse syntaxique :** 
 
 3. **Analyse sémantique :**  
 
