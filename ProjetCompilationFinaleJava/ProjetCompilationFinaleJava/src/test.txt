@@ -1,0 +1,22 @@
+id : entier;
+x : tableau[10] de entier;
+resultat : entier;
+test : booleen ;
+test2 : booleen ;
+s:chaine;
+
+test := x[0] > 5 ;
+si test alors
+    id := 10;
+
+sinon
+    resultat := 5 ;
+    test2:= vrai ;
+    tantque test2 faire 
+
+        ecrire(resultat);
+        resultat := resultat + 5;
+        test2 := resultat > 20 ;
+        
+s:="IGL3" ;
+ecrire(s);
